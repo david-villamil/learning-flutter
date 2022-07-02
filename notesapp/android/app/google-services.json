@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "781404126940",
+    "project_id": "notesapp-learning-flutter",
+    "storage_bucket": "notesapp-learning-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:781404126940:android:7ee8228b16f29d75b8fe19",
+        "android_client_info": {
+          "package_name": "com.example.notesapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "781404126940-m0rahl5b4okfsu2og7502a09qcevsj3d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrNTAOO4FcDhvWwBdsgBoVjWiwH8j7tgM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "781404126940-m0rahl5b4okfsu2og7502a09qcevsj3d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
