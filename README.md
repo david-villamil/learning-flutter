@@ -10,3 +10,5 @@ flutter create --org xxx.domain appname
 ```
 To mirror Android device check https://github.com/Genymobile/scrcpy
 ## notesapp
+
+Notes app that uses firebase auth and firestore database
